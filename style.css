@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+}
+
+.bar-container {
+    width: 200px;
+    height: 30px;
+    background-color: grey;
+}
+
+.bar {
+    background-color: green;
+    height: 100%;
+    width: 0%;
+}
+
+#button {
+    margin: 5px;
+}
